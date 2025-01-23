@@ -1,4 +1,12 @@
 # CV_Dashboard
+
+Main objective is to *create a dashboard that shows, not only my tableau skills, but also my curriculum vitae in an engaging and interactive way*
+
+Tasks I needed to do in order to complete the project
+`- Create a text, divided in sections (Language, Skills, Education and Work Experience) reflecting on my trajectory since I started in the workplace`
+`- Using the data created (texts) organize it in some spreadsheets`
+`- Import the tables in the spreadsheets to tableau`
+
 This is a project that consists in collect and organizing qualitative and quantitative data about my educational and professinal life, and share it in an interactive dashboard format.
 `First I created 3 simple texts that detailed my life language, skills, work and educational trajectory:` 
 
@@ -16,3 +24,4 @@ This is a project that consists in collect and organizing qualitative and quanti
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjNEEGDWIbHsnrTwfyABZ6eZ_9iVsIM6cpusnVHqAStWbhWlZvzJM3iBqq-7Dy25pY7sUtWwvlKRKtHY-RFacF0s5Hj_g6PvzbY927uZKCvgXVWRKTOJYOm5SnMc-2wRC5IOJIMQ?key=IxGc4173BlpsvesVfsoGjYjp)
 
 `Those tables were made with the objective of transforming them into a comprehensible dashboard that presents key information to employers about me in an accessible and interactive way.` 
+`I used this model to do the calculations of experience in percentages (%) that you see in in the collumn entitled: proficency, but I ended up deciding to not use this measurement in my final work because it clouds the measurement. Instead I used, simply, the duration in years (continuous data) to measure my experience in skills. However, in the language section I verified percentages are a better fit for expressing proficiency because they emphasize current ability over just time spent learning.`
