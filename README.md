@@ -12,7 +12,7 @@ This project showcases my ability to create compelling data visualizations using
 ## 🖼️ Preview
 [![Tableau Resume Dashboard](link-to-image-or-gif)  ](https://public.tableau.com/app/profile/guilhermina.silva/viz/CV_17367922452380/CV_2nd_version?publish=yes)
 <img width="1393" alt="image" src="https://github.com/user-attachments/assets/2a186305-7bd0-4414-9098-62a0d37fafd9" />
-<img width="1393" alt="image" src="https://github.com/user-attachments/assets/2a186305-7bd0-4414-9098-62a0d37fafd9" />
+
 
 
 ## 📌 Key Features
